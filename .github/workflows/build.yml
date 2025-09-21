@@ -32,7 +32,7 @@ jobs:
           - aarch64
           
         sdk:
-          - openwrt-sdk-24.10-aarch64
+          - 24.10.1
 
     steps:
       - uses: actions/checkout@v4

@@ -32,7 +32,6 @@ jobs:
           - aarch64
           
         sdk:
-          - 24.10.1
           - snapshot
 
     steps:
